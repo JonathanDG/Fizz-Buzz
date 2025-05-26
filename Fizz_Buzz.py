@@ -1,6 +1,6 @@
 #JONATHAN DURON GONZALEZ   
 num = 1
-while num < 1000:
+while num <= 1000:
     text =""
     if num %3 == 0:
         text+="FIZZ"
