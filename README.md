@@ -1,0 +1,1 @@
+This program evaluates the numbers from one to one thousand, one by one. If a number is divisible by three, print "FIZZ"; if it is divisible by five, print "BUZZ"; and if it is divisible by both, print "FIZZBUZZ".
